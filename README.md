@@ -48,6 +48,6 @@
 [aboutme]: https://taeshad.github.io/practicepage/
 [linkedin]: https://www.linkedin.com/in/taesha-duboise-58398613a/
 [github]: https://github.com/taeshad/
-[gmail]:(mailto:taesha.duboise@gmail.com)
+[gmail]: mailto:taesha.duboise@gmail.com/
 
 
