@@ -12,7 +12,7 @@
 
 [<img align="left" alt="taeshad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][profolio]
 [<img align="left" alt="taeshad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][aboutme]
-<img align="left" alt="taeshad" width="22px" src="mailto: taesha.duboise@gmail.com">Gmail</a>" />
+<img align="left" alt="taeshad" width="22px" src="" />
 [<img align="left" alt="taeshad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
