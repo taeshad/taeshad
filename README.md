@@ -12,8 +12,8 @@
 
 [<img align="left" alt="taeshad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][profolio]
 [<img align="left" alt="taeshad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][aboutme]
-[<img align="left" alt="taeshad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="taeshad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="taeshad" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][gmail]
+[<img align="left" alt="taeshad | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 <br />
 
