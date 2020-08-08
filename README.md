@@ -1,18 +1,18 @@
-### Hi there, I'm Taesha - aka [taeshad][website] 👋
+### Hi there, I'm Taesha - aka [aboutme][profolio] 👋
 
 ## I'm a Developer, and Flight Attendant!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning Javascript [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+- 🔭 I’m currently working on a [profolio][aboutme]!
+- [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]I’m currently learning Javascript 🌱  
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook and run/ride bikes
 
 ### Connect with me:
 
-[<img align="left" alt="taeshad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="taeshad | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="taeshad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="taeshad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][profolio]
+[<img align="left" alt="taeshad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][aboutme]
+[<img align="left" alt="taeshad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="taeshad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -44,3 +44,7 @@
 [aboutme]: https://taeshad.github.io/practicepage/
 [linkedin]: https://www.linkedin.com/in/taesha-duboise-58398613a/
 [github]: https://github.com/taeshad
+[gmail]: mailto: taesha.duboise@gmail.com
+[stackoverflow]: https://stackoverflow.com/users/13788947/taesha
+[slack]:
+
