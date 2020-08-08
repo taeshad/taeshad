@@ -3,7 +3,7 @@
 ## I'm a Developer, and Flight Attendant!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning Javascript 🤣
+- 🌱 I’m currently learning Javascript [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook and run/ride bikes
@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="taeshad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=taeshad&show_icons=true&hide_border=true"" />
+<img align="left" alt="taeshad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=taeshad&show_icons=true&hide_border=true" />
 
 [profolio]: https://taeshad.github.io/
 [aboutme]: https://taeshad.github.io/practicepage/
