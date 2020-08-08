@@ -1,4 +1,4 @@
-### Hi there, I'm Taesha - aka [aboutme][profolio] 👋
+### Hi there, I'm Taesha - [aboutme][profolio]👋🏽
 
 ## I'm a Developer, and Flight Attendant!
 
@@ -46,6 +46,6 @@
 [aboutme]: https://taeshad.github.io/practicepage/
 [linkedin]: https://www.linkedin.com/in/taesha-duboise-58398613a/
 [github]: https://github.com/taeshad/
-[gmail]:(mailto:taesha.duboise@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[gmail]:(mailto:taesha.duboise@gmail.com)
 
 
