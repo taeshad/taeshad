@@ -3,7 +3,7 @@
 ## I'm a Developer, and Flight Attendant! 
 
 - 🔭 I’m currently working on a [profolio][aboutme]!
-- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>I’m currently learning Javascript 🌱  
+- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>I’m currently learning Javascript 🌱 
 -👯 looking to collaborate with other content creators
 - 🥅  2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook and run/ride bikes
