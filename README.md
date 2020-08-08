@@ -12,7 +12,7 @@
 
 [<img align="left" alt="taeshad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][profolio]
 [<img align="left" alt="taeshad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][aboutme]
-<img align="left" alt="taeshad" width="22px" src="" />
+<img align="left" alt="taeshad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg />
 [<img align="left" alt="taeshad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -46,6 +46,6 @@
 [aboutme]: https://taeshad.github.io/practicepage/
 [linkedin]: https://www.linkedin.com/in/taesha-duboise-58398613a/
 [github]: https://github.com/taeshad/
-
+[gmail]:(mailto:taesha.duboise@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
