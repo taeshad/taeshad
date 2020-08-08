@@ -1,17 +1,17 @@
 ### Hi there, I'm Taesha - [aboutme][profolio]👋🏽
 
-## I'm a Developer, and Flight Attendant!
+## I'm a Developer, and Flight Attendant! 
 
 - 🔭 I’m currently working on a [profolio][aboutme]!
 - <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>I’m currently learning Javascript 🌱  
-- 👯 I’m looking to collaborate with other content creators
+- 👯 looking to collaborate with other content creators
 - 🥅  2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook and run/ride bikes
 
 ### Connect with me:
 
-[<img align="left" alt="taeshad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][profolio]
-[<img align="left" alt="taeshad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][aboutme]
+[<img align="left" alt="taeshad" width="22px" src="https://img.icons8.com/dotty/80/000000/webpage.png" />][profolio]
+[<img align="left" alt="taeshad" width="22px" src="https://img.icons8.com/cotton/64/000000/web-design.png" />][aboutme]
 [<img align="left" alt="taeshad" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][gmail]
 [<img align="left" alt="taeshad | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
@@ -19,6 +19,7 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/atom-editor.png" />][profile]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/nolan/64/sublime-text-new-logo.png" />][profile]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][profolio]
