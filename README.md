@@ -1,3 +1,5 @@
+![I am a flight attendant](https://media.istockphoto.com/vectors/teenage-girk-working-on-computer-in-classroom-vector-id1150453750?k=6&m=1150453750&s=612x612&w=0&h=Mu_UNoQRacUqqnApWUgSGFCt8oixdwUVN2nGRm_DOkM=)
+
 ### Hi there, I'm Taesha - [aboutme][profolio]👋🏽
 
 ## I'm a Developer, and Flight Attendant! 
